@@ -1,0 +1,448 @@
+% --------------------
+% Layout and standard configuration
+% --------------------
+\documentclass[a4paper,11pt]{article} 
+
+\usepackage[applemac]{inputenc}
+\usepackage[english]{babel}			% alternativ: \usepackage{ngerman} oder bei babel: ngerman
+\usepackage[T1]{fontenc} 				% (Trennung von Wšrtern, die Umlaute enthalten) 
+\usepackage[bottom,stable,multiple,hang]{footmisc} 		% Fussnoten / Optionen: hang (d.h. ohne EinrŸcken)
+
+\usepackage{setspace} 							% Zeilenabstand - moderieren durch: \setstretch{1.2}
+\usepackage{ragged2e}
+	% The pack?age de?fines new com?mands 
+	% \Cen?ter?ing, \RaggedLeft, \RaggedRight and new en?vi?ron?ments Cen?ter, FlushLeft, and FlushRight
+	% \justifying switches back to justified text after ragged text has been switched on.
+
+
+% -----------------------------------------------------------------------------------------------------------------------
+% Layout of Text
+% -----------------------------------------------------------------------------------------------------------------------	
+\usepackage{multicol}
+		% use \usepackage{wrapfig} and \usepackage{wraptable}	 for inside - tables and figures
+		% usage: 
+		% \begin{multicols}{3} 			% unbalanced: \begin{multicols*}{3} 
+			% [
+			% \section{First Section}
+			% THIS IS NOT PART OF THE COLUMNS
+			% ]
+			% THIS IS INSIDE COLUMS
+			% \end{multicols}	
+		% \columnbreak 				% go to next column			
+	\setlength{\columnsep}{1.5pc}
+		% \setlength{\columnseprule}{0.7pt}
+		% \def\columnseprulecolor{\color{blue}}	
+	\setcounter{columnbadness}{7000}
+	\setcounter{finalcolumnbadness}{7000}	
+
+\usepackage[neverdecrease]{paralist}		% for compactitem
+	% neverdecrease: If the width of the labels is adjusted, this option avoids the decrease of the width
+	\setlength{\pltopsep}{-\topsep}			% Space between first item and preceding paragraph.
+	\setlength{\plpartopsep}{-\plpartopsep} 	% Extra space added to \topsep when environment starts a new paragraph
+	%\plitemsep							% Space between successive items.
+	%\plparsep 							% Space between paragraphs within an item Ð the \parskip for this environment.
+		% usage: {inparaenum, asparaenum, asparaitem, inparaitem, compactenum, compactitem}
+			%	\begin{inparaenum}
+			%	\item LIONS, ; 
+			%	\item DRAGONS, and finally
+			% 	\item MONSTERS
+			%	\end{inparaenum}				
+
+						
+
+% -----------------------------------------------------------------------------------------------------------------------
+% Margins
+% -----------------------------------------------------------------------------------------------------------------------
+\usepackage[]{geometry} %
+\topmargin -22mm 				% Margin at top of page above all printing
+\headheight 14mm 				% Height of the header (appears atop all pages)
+\headsep 12mm 				% Distance from bottom of header to the body of text on a page.
+\topskip 5mm 					% Distance from top of main text box to the baseline of the first line of text in the main text box.
+	
+\textheight 255mm
+\textwidth 157mm
+\footskip 15mm
+\oddsidemargin -8mm 			% Left margin on odd numbered pages
+\evensidemargin -8mm
+
+\marginparsep 3mm
+\marginparwidth 20mm 
+
+\parskip 0.6em					% Distance between paragraphs. %vorher 0.7
+\parindent	 0pt 					% Amount of indentation at the first line of a paragraph. % 7mm oder \noindent
+
+
+\clubpenalty = 9000 				% Disable single lines at the start of a paragraph (Schusterjungen) / 10000 maximaler Wert!
+\widowpenalty = 9000 
+\displaywidowpenalty = 9000		% Disable single lines at the end of a paragraph (Hurenkinder) / 10000 maximaler Wert!	
+% -----------------------------------------------------------------------------------------------------------------------
+% -----------------------------------------------------------------------------------------------------------------------
+
+
+
+% -----------------------------------------------------------------------------------------------------------------------
+% Signs and Symbols, Math ||ÊGraphics and Colors
+% -----------------------------------------------------------------------------------------------------------------------
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{stmaryrd}
+\usepackage{array}
+\usepackage{ifsym}
+\usepackage{wasysym}
+\usepackage{units}
+
+\usepackage{pdfpages}
+\usepackage{graphics}
+\usepackage{graphicx}
+\usepackage{epsfig}
+\usepackage{calc} 		% for making internal calculations...
+
+% ----------------------------------------------------
+\graphicspath{{pix/}}         						% Festlegung des Pfades zu den Bildern
+
+\usepackage{color}
+\usepackage{colorsapplemac}					% Apple-Farben, defined by Felix 
+										% English and German
+%\usepackage{latexcolor}						% full color set from http://latexcolor.com/
+%\usepackage{ocol}						% full color set from http://latexcolor.com/
+										
+% \usepackage[usenames,dvipsnames,svgnames,table]{xcolor}
+% \usepackage{forest}						% For drawing linguistic trees
+
+\usepackage{xspace}	% fŸr Leerzeichen hinter Wšrtern / usefuls for macros!
+	% \xspaceaddexceptions{\fvscitealp \fvcitealp \fscitealp \fcitealp} 
+	% Ausnahmen, dass vor Fussnoten kein Leerzeichen ist, hilfreich bei mehreren Fussnoten
+% -----------------------------------------------------------------------------------------------------------------------
+% -----------------------------------------------------------------------------------------------------------------------
+
+
+% -----------------------------------------------------------------------------------------------------------------------
+% Inserting Graphics & Pictures |Ê and Captions
+% -----------------------------------------------------------------------------------------------------------------------
+\usepackage{subfig}				% subfigures
+\usepackage{wrapfig}			% to create wrap figures within text
+\usepackage[export]{adjustbox}		% to align figures
+\usepackage{pdflscape}			% support to the environment landscape of package lscape by setting the PDF page attribute /Rotate
+
+\usepackage[labelfont={sf,bf}]{caption}
+	% 	\usepackage[figurename=Figure,tablename=Table,listfigurename= List of Figures,listtablename= List of Tables]{caption}
+	% 	\DeclareCaptionFont{captionfarbe}{\color{\captionfarbe}}
+	% 	\captionsetup{labelsep=colon-newline}
+	% 	\captionsetup{textfont={captionfarbe,sl}}
+	% 	\DeclareCaptionLabelSeparator{period-newline}{. \\}
+	% 	justification=raggedright % textfont={it}
+	
+\usepackage[]{sidecap} 
+	% 	Options:
+	%		margincaption 
+	% 		innerbody, outerbody, centerbody, leftbody oder rightbody
+	% 	\captionsetup{labelsep=colon-newline}
+	% 	\captionsetup{textfont={captionfarbe,sl}}
+	% 	\renewcommand\sidecaptionsep{} %default ist \marginparsep 
+
+\usepackage{fpic2}	
+	% May require packages {caption, sidecap}
+\newcommand{\fpicframe}{0.3mm}
+\newcommand{\fpicframedistance}{2mm}
+\newcommand{\fpicwidth}{\textwidth-\fpicframedistance-\fpicframedistance-\fpicframe-\fpicframe}
+	% Standard options for inserting a picture / define for fpic2-Package: 
+	
+
+
+
+% ----------------------?!?!?--------------------------?!?!?---------------------------!??!?!--------------------------------------------
+% FŸr ein Bild:
+% \fpicw{adresse}{\fpicwidth}{caption}{Labelfuerref}{captionfuertableofcontents}{platzierungdefault_tbp}
+% Requires the package 	fpic2.sty
+
+
+%  \fpicw{adresse}{\fpicwidth}{caption}{Labelfuerref}{captionfuertableofcontents}{tbp}
+ 	% Abbildung mit Sidecap-Bildunterschrift und vorher im Header definierten Rahmen, etc.
+	% aus dem Packet: fpicx.sty
+
+%  \fpicempty{inhalt}{nix}{caption}{Labelfuerref}{captionfuertableofcontents}{tbp}
+ 	% Abbildung mit Sidecap-Bildunterschrift und vorher im Header definierten Rahmen, etc.
+	% aus dem Packet: fpicx.sty
+% ----------------------?!?!?--------------------------?!?!?---------------------------!??!?!--------------------------------------------
+
+
+
+
+
+
+
+% -----------------------------------------------------------------------------------------------------------------------
+% Prettyref - fŸr Querverweise:
+% --------------------
+\usepackage{prettyref}
+% \newrefformat{prŠfix}{code}	% \titleref{} oder \currenttitle{}
+	\newrefformat{fig}{figure~\ref{#1}}
+	\newrefformat{tab}{table~\ref{#1}}
+	\newrefformat{sec}{section~\ref{#1}}
+	\newrefformat{ssec}{subsection~\ref{#1}}
+	\newrefformat{foo}{footnote~\ref{#1}}
+	\newrefformat{app}{appendix~\ref{#1}}
+	
+	% usage:			\label{tab:1}
+	% access via: 		\prettyref{tab:1} 
+	% 				\pageref{tab:1}  
+	% 				\ref{tab:1}
+% -----------------------------------------------------------------------------------------------------------------------
+
+
+
+
+% -----------------------------------------------------------------------------------------------------------------------
+% Literature and Biblatex
+% -----------------------------------------------------------------------------------------------------------------------
+
+\usepackage[backend=bibtex, style=authoryear, natbib, doi=false, isbn=false, url=false]{biblatex}
+\usepackage{url}						% intended for email addresses, hypertext links, directories/paths
+\usepackage{citejournal, citettl}				% Package by Felix to Cite the JOURNAL / title
+									% Usage: \citejournal{REFERENCE}
+
+% Options: 
+% isbn=false will suppress any isbn fields included in your .bib file. (It works the same way for url, doi and eprint.) (Introduced in v0.9)
+% firstinits=true will render all first and middle names as initials. (Introduced in v0.8)
+% dashed=false (available for the authoryear, authortitle, and verbose bibliography styles) will print recurring author/editor names instead of replacing them by a dash. (Introduced in v0.9)
+
+% Styles: 			style=apa, style=authoryear, 
+% Citestyle: 		citestyle=authoryear 
+
+%\AtBeginBibliography{\footnotesize}		% Small font in Bibliography
+\bibliography{%
+	/Users/loro/Documents/Documents/00_science/00_bibdesk/00-0_sosi/000_SocialSciences_Bibdesk_FME.bib,%
+	}
+% -----------------------------------------------------------------------------------------------------------------------
+% -----------------------------------------------------------------------------------------------------------------------
+
+
+% -----------------------------------------------------------------------------------------------------------------------
+% Boxes and HighLIGHTING
+% -----------------------------------------------------------------------------------------------------------------------
+\usepackage{fboxes}		% Package by Felix for boxes
+					% Usage: 
+					% \boxx{width}{FRthickness}{FRdistance}{colorTXT}{colorBACKG}{refLABEL}{TXT}
+					% \boxx{\textwidth-4.8mm}{0.4mm}{2mm}{zinn}{schnee}{label}{TEXT}
+					% Define a new boxxx-Class:
+					 \newcommand{\boxxx}[1]{\boxx{\textwidth-4.8mm}{0.4mm}{2mm}{zinn}{schnee}{}{#1}}
+					%\boxxx{TEXT}
+					% very simple box: 
+					% \fbox{\parbox[b]{\textwidth}{txt}} 
+
+% Highlight!
+% --------------------
+\usepackage{soul} 
+\sethlcolor{lightblue}		% honeydew, lemon, ... 
+	% 	\hl{TEXT}		zum Highlighten
+						
+% -----------------------------------------------------------------------------------------------------------------------
+% -----------------------------------------------------------------------------------------------------------------------
+
+
+
+% -----------------------------------------------------------------------------------------------------------------------
+% Headers & Footers
+% --------------------
+
+\usepackage{fancyhdr}
+	\pagestyle{fancy}
+		
+	\fancyheadoffset[LE,RO]{\marginparsep+\marginparwidth}
+	\fancyfootoffset[LE,RO]{\marginparsep+\marginparwidth}
+		
+	\renewcommand{\sectionmark}[1]{\markboth{#1}{}} 
+		% \renewcommand{\subsectionmark}[1]{\markright{#1}} % markright als subsection
+
+	% header
+	\fancyhf{} 		% clears the header and footer, otherwise the elements of the default "plain" page style will appear.
+	\lhead{}		%\thesection \leftmark} 	
+	\chead{}
+	\rhead{\thepage} 			
+	\renewcommand{\headrulewidth}{0.3pt}
+	
+	% footer
+	\rfoot{}
+	\cfoot{} 			% \thepage
+	\lfoot{}
+	% \renewcommand{\footrulewidth}{0.6pt}
+	
+	% 	\cfoot{\thepage\ of \pageref{LastPage}}		% requires \usepackage{lastpage} and \usepackage{ifthen}
+	%	\thesection		% adds number of the current section.
+	%	\leftmark			% adds name and number of the current top-level structure
+	%	\rightmark			% adds name and number of the current next to top-level structure
+	%	\fancyhf{} 			% clears the header and footer, otherwise the elements of the default "plain" page style will appear.
+	
+	% For  double-sided documents
+	%	\fancyhead[LE,RO]{Share\LaTeX}					% E - even, O - odd, L R C
+	%	\fancyhead[RE,LO]{Guides and tutorials}
+	%	\fancyfoot[CE,CO]{\leftmark}
+	%	\fancyfoot[LE,RO]{\thepage}
+
+	
+% -----------------------------------------------------------------------------------------------------------------------
+% -----------------------------------------------------------------------------------------------------------------------
+
+
+
+
+% -----------------------------------------------------------------------------------------------------------------------
+% Hyperref - hyper references, etc.
+% -----------------------------------------------------------------------------------------------------------------------
+% requieres packages{colors_applemac}
+% see all options at: 			http://mirror.switch.ch/ftp/mirror/tex/macros/latex/contrib/hyperref/doc/options.pdf
+	% DELETE THIS LINE after it works: 
+	%\usepackage[pdftex, hidelinks , plainpages=false, pdfpagelabels, breaklinks, pagebackref=false]{hyperref} 
+
+\usepackage[pdftex]{hyperref}
+
+\hypersetup{
+	unicode=false,          			% non-Latin characters in AcrobatÕs bookmarks
+	pdftoolbar=false,        		% show AcrobatÕs toolbar?
+	pdfmenubar=false,        		% show AcrobatÕs menu?
+	pdffitwindow=true,     		% window fit to page when opened
+	pdfstartview={FitH},    		% {FitB, FitH, Fit} fits the width of the page to the window
+	bookmarksopenlevel=2 		% wie weit das Inhaltsverzeichnis schon gešffnet sein soll
+    	pdfnewwindow=true,      		% links in new window
+	pdfpagemode= UseThumbs, 	% {FullScreen, UseNone, UseThumbs, None, UseOutlines, FullScreen, UseOC, UseAttachments}
+}
+
+	% Further usage:
+	% ???\href{options}{URL}{text}
+			% options: {page=1} page# of remote PDF, {pdfremotestartview}, {pdfnewwindow}
+	% \hyperlink{name}{text}	-> linking to \hypertarget{name}{text}						
+	% \urlstyle{same}	% URLs in same style as text	
+	
+\usepackage[all]{hypcap} 
+% Since hyperref points to the caption created within the float environment, which is always set below a figure or table, the figure or table itself will not be visible[3]. A workaround exists by using the package
+
+
+% -----------------------------------------------------------------------------------------------------------------------
+% -----------------------------------------------------------------------------------------------------------------END
+% -----------------------------------------------------------------------------------------------------------------------
+
+
+
+
+% -----------------------------------------------------------------------------------------------------------------------
+% Makros and Abbreviations
+% -----------------------------------------------------------------------------------------------------------------------
+\newcommand{\ca}{ca.\xspace}
+
+
+
+% 
+% TUTORIAL
+% -----------------------------------------------------------------------------------------------------------------------
+% Short commands to insert...
+% -----------------------------------------------------------------------------------------------------------------------
+	
+	% Insert Picture!
+	% \fpicw{adresse}{\fpicwidth}{caption}{Labelfuerref}{captionfuertableofcontents}{platzierungdefault_tbp}
+	% Requires the package 	fpicx.sty
+
+
+% -----------------------------------------------------------------------------------------------------------------------
+% -----------------------------------------------------------------------------------------------------------------------
+	
+
+
+
+% -----------------------------------------------------------------------------------------------------------------------
+% Listen und Tabellen
+% --------------------
+\usepackage{longtable}			% table spanning multiple pages
+\usepackage{colortbl}			% colors in table
+\usepackage{booktabs}	 		% nicer layout of tables {\toprule, \midrule, \bottomrule}
+\usepackage{caption}			% \caption*  -- to create an unnumbered table float. 
+\usepackage{multirow}			% \multirow{4}*{\minitab[c]{Common \\ multi text}} & Column TEXT\\
+
+
+% -------------------------------------------------------------
+% Rotating tables: 
+\usepackage{tabularx}
+\usepackage{rotating}			% fŸr die turn-Umgebung
+\usepackage{pdfpages}
+\usepackage{relsize}				% fŸr \smaller-Befehl
+
+	\newcolumntype{L}[1]{>{\RaggedRight\arraybackslash}p{#1}}
+	\newcolumntype{R}[1]{>{\RaggedLeft\arraybackslash}p{#1}}
+
+	\newcolumntype{U}[1]{%
+		>{\begin{turn}{90}\begin{minipage}{#1}%
+			\scriptsize\raggedright\hspace{0pt}}l%
+		<{\end{minipage}\end{turn}}%
+	}
+
+	\newcolumntype{K}[1]{%
+		>{\begin{turn}{90}\begin{minipage}{#1}%
+			\scriptsize\raggedright\hspace{0pt}}l%
+		<{\end{minipage}\end{turn}}%
+	}
+	
+	\newcolumntype{V}[1]{% 						% Spaltentyp fŸr gestŸrzten Tabellenkopf
+		>{\begin{turn}{90}\begin{minipage}{#1}%
+			\smaller\raggedright\hspace{0pt}}l% 		% \smaller: Schrift in Tabellenkšpfen
+		<{\end{minipage}\end{turn}}% 				% einen Grad kleiner setzen
+	}
+	
+	\newcolumntype{W}[2]{% zwei Parameter: #1 Hšhe, #2 Breite
+	>{\begin{turn}{90}\begin{minipage}[][#2][c]{#1}%
+	\smaller\raggedright\hspace{0pt}}l%
+	<{\end{minipage}\end{turn}}%
+	}
+	% usage: 
+		% see sq-rotate-table
+
+% -----------------------------------------------------------------------------------------------------------------------
+% -----------------------------------------------------------------------------------------------------------------------
+
+
+
+
+% -----------------------------------------------------------------------------------------------------------------------
+% all this: already in TXT-document
+% -----------------------------------------------------------------------------------------------------------------------
+%
+%\begin{document}
+%
+%
+%%-------------------------------
+%%\title{___TITLE____}
+%%\author{Felix Meissner\\University of Zurich}
+%%\date{2014}
+%%\maketitle
+%% 	\setstretch{1.05}
+%%	\pagenumbering{arabic}
+
+
+%
+%%-------------------------------
+
+\input{txt}
+
+%%-------------------------------
+%
+
+
+% -----------------------------------------------------------------------------------------------------------------------
+% all this: already in TXT-document
+% -----------------------------------------------------------------------------------------------------------------------
+%
+%% -----------------------------------------------------------------------------------------------------------------
+%% Text  - Appendix 
+%% -----------------------------------------------------------------------------------------------------------------
+%\appendix
+%% \newpage
+%% \pagenumbering{Roman} 
+%\footnotesize
+%\begin{appendix}
+%
+%\nopagebreak
+%\twocolumn
+%
+%\printbibliography
+%			
+%\end{appendix}
+%\end{document}

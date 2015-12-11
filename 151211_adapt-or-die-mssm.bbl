@@ -1,0 +1,1593 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 2.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{AbrahamsonRosenkopf1993_Institutional-and-Competitive-Bandwagons_AMR}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Abrahamson}{A.}%
+     {Eric}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Rosenkopf}{R.}%
+     {Lori}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{INNOVATION adoption, TECHNOLOGY transfer, SOCIAL change, TECHNOLOGICAL
+  innovations, DIFFUSION of innovations, BUSINESS forecasting, MANAGEMENT
+  research, TECHNOLOGICAL progress, EFFECT of technological innovations on
+  industrial relations, DIFFUSION of innovations theory}
+  \strng{namehash}{AERL1}
+  \strng{fullhash}{AERL1}
+  \field{labelyear}{1993}
+  \field{sortinit}{A}
+  \field{abstract}{%
+  The sheer number of organizations adopting an innovation can cause a
+  bandwagon pressure, prompting other organizations to adopt this innovation.
+  Institutional bandwagon pressures occur because non- adopters fear appearing
+  different from many adopters. Competitive bandwagon pressures occur because
+  nonadopters fear below- average performance if many competitors profit from
+  adopting. Our mathematical model of bandwagons examines how organizational
+  collectivities' characteristics determine (a) whether a bandwagon will occur,
+  (b) how many organizations jump on it, and (c) how many retain the innovation
+  it diffuses. Simulating the model suggests, first, that any technological,
+  organizational, or strategic innovation with ambiguous returns can diffuse in
+  a bandwagon manner; second, that minor differences in organizational
+  collectivities can have major effects on bandwagons' occurrence, extent, and
+  persistence; and third, that bandwagons can prompt most organizations in a
+  collectivity to adop%
+  }
+  \field{number}{3}
+  \field{pages}{487\bibrangedash 517}
+  \field{title}{Institutional and Competitive Bandwagons: Using Mathematical
+  Modeling as a Tool to Explore Innovation Diffusion}
+  \field{volume}{18}
+  \field{journaltitle}{Academy of Management Review}
+  \field{year}{1993}
+\endentry
+
+\entry{Argote2012_Organizational-Learning-Curves:-An-Overview}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Argote}{A.}%
+     {Linda}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Argote}{A.}%
+     {Linda}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Kluwer Academic Publishers}%
+  }
+  \keyw{learning curve}
+  \strng{namehash}{AL1}
+  \strng{fullhash}{AL1}
+  \field{labelyear}{2012}
+  \field{sortinit}{A}
+  \field{booktitle}{Organizational Learning: Creating, Retaining and
+  Transferring Knowledge}
+  \field{title}{Organizational Learning Curves: An Overview}
+  \field{year}{2012}
+\endentry
+
+\entry{ArgoteTodorova2007_Organizational-Learning_IntRevOfIndustrialAndOrganizationalPsychology}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Argote}{A.}%
+     {Linda}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Todorova}{T.}%
+     {Gergana}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{organizational learning, organizational behavior, social components,
+  learning processes, cognitive mediation}
+  \strng{namehash}{ALTG1}
+  \strng{fullhash}{ALTG1}
+  \field{labelyear}{2007}
+  \field{sortinit}{A}
+  \field{abstract}{%
+  This chapter contains section titled: * THEORETICAL FRAMEWORK * CONCLUSION *
+  ACKNOWLEDGEMENTS%
+  }
+  \field{pages}{193\bibrangedash 234}
+  \field{title}{Organizational Learning}
+  \field{volume}{22}
+  \field{journaltitle}{International Review of Industrial and Organizational
+  Psychology}
+  \field{year}{2007}
+\endentry
+
+\entry{audiabrion2007_reluctant-to-change:-self-e}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Audia}{A.}%
+     {Pino~G.}{P.~G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Brion}{B.}%
+     {Sebastien}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{DECISION making, MANAGEMENT, PERFORMANCE, INFLUENCE (Psychology),
+  FACTOR analysis, UBIQUITOUS computing}
+  \strng{namehash}{APGBS1}
+  \strng{fullhash}{APGBS1}
+  \field{labelyear}{2007}
+  \field{sortinit}{A}
+  \field{abstract}{%
+  Although there is extensive evidence that past performance influences the
+  propensity to make changes, research on how decision makers respond to
+  diverging performance measures has been sparse. This paper addresses this gap
+  in an experimental and a field study in which we examine how decision makers
+  respond to the ambiguity introduced by two diverging performance indicators
+  of unequal importance. Both studies suggest that decision makers respond to
+  diverging performance indicators in a self-enhancing manner. Decision makers
+  gave importance to a secondary performance indicator only when it helped them
+  maintain a sense of positive performance, that is, when a secondary
+  performance measure was high and a primary performance measure was low. The
+  results suggest that, in contexts in which decision makers are likely to
+  experience diverging performance indicators, perceptions of success and the
+  associated reluctance to make changes might be more pervasive than is often
+  thought. [Copyright &y&%
+  }
+  \field{number}{2}
+  \field{pages}{255\bibrangedash 269}
+  \field{title}{Reluctant to change: Self-enhancing responses to diverging
+  performance measures.}
+  \field{volume}{102}
+  \field{journaltitle}{Organizational Behavior \& Human Decision Processes}
+  \field{year}{2007}
+\endentry
+
+\entry{BaumLi2000_Making-the-Next-Move:-How-Experiential-and-Vicarious_ASQ}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Baum}{B.}%
+     {Joel A.~C.}{J.~A.~C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Li}{L.}%
+     {Stan~Xiao}{S.~X.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Usher}{U.}%
+     {John~M.}{J.~M.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{hs14_cor_Keil_Carnegie-perspective-on-behavioral-strategy}
+  \strng{namehash}{BJACLSXUJM1}
+  \strng{fullhash}{BJACLSXUJM1}
+  \field{labelyear}{2000}
+  \field{sortinit}{B}
+  \field{abstract}{%
+  We examine acquisitions by multiunit chain organizations to determine why
+  they acquire a particular target rather than others that are available to
+  them and thus better understand chain growth. We advance experiential and
+  vicarious learning processes as an explanation for chains' next spatial move.
+  Our analysis of Ontario nursing home chains' acquisition location choices
+  from 1971 to 1996 provides broad support for a learning perspective,
+  demonstrating how experiential and vicarious processes shape and constrain
+  the locations of chains' acquisitions. Experiential processes lead chains to
+  replicate themselves by acquiring components geographically and
+  organizationally similar to their own most recent and most similar prior
+  acquisitions and their own current components. Vicarious processes lead
+  chains to imitate location choices of other visible and comparable chains'
+  most recent acquisitions, prior acquisitions nearest to potential targets,
+  and their current components. Our study thus establishes organizational
+  learning as a conceptual foundation for predicting the location of a chain's
+  next acquisition and, more generally, the spatial expansion of chains over
+  time.%
+  }
+  \field{number}{4}
+  \field{pages}{766\bibrangedash 801}
+  \field{title}{Making the Next Move: How Experiential and Vicarious Learning
+  Shape the Locations of Chains' Acquisitions}
+  \field{volume}{45}
+  \field{journaltitle}{Administrative Science Quarterly}
+  \field{year}{2000}
+\endentry
+
+\entry{BeckmanHaunschild2002_Network-Learning-The-Effects-of-Partners-Heterogeneity_ASQ}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Beckman}{B.}%
+     {Christine~M.}{C.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Haunschild}{H.}%
+     {Pamela~R.}{P.~R.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{learning, acquisition}
+  \strng{namehash}{BCMHPR1}
+  \strng{fullhash}{BCMHPR1}
+  \field{labelyear}{2002}
+  \field{sortinit}{B}
+  \field{abstract}{%
+  To examine the effects of interorganizational network structures on
+  acquisition decisions, we propose a model whereby firms learn by sampling the
+  diverse experiences of their network partners. We tested this model by
+  examining the effect of diversity of network partners' experience on firms'
+  acquisition decisions, using data on acquisition premiums and acquirers'
+  stock market performance from 1986 to 1997. Results show that firms tied to
+  others with heterogeneous prior premium experience tend to pay less for their
+  acquisitions and have better-performing acquisitions than those tied to
+  others with homogeneous experience. Firms also pay lower premiums when their
+  network partners (1) have completed deals of diverse sizes, (2) have unique
+  information, and (3) are themselves of diverse sizes. Firms that have
+  multiplex relationships with their partners receive even more benefit. The
+  results extend prior research on networks and learning by showing that
+  collective network experience affects%
+  }
+  \field{number}{1}
+  \field{pages}{92\bibrangedash 124}
+  \field{title}{Network Learning: The Effects of Partners' Heterogeneity of
+  Experience on Corporate Acquisitions}
+  \field{volume}{47}
+  \field{journaltitle}{Administrative Science Quarterly}
+  \field{year}{2002}
+\endentry
+
+\entry{BinghamDavis2012_Learning-Sequences-Their-Existence-Effect-and-Evolution_AMJ}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Bingham}{B.}%
+     {Christopher~B.}{C.~B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Davis}{D.}%
+     {Jason~P.}{J.~P.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{hs14_cor_Martinez_Managerial-Cognition, learnig, ENTREPRENEURSHIP,
+  ORGANIZATIONAL performance, ORGANIZATIONAL learning, ORGANIZATIONAL research,
+  GLOBALIZATION, ECONOMIES of scale, ECONOMIES of scope, LEARNING, DISCOVERY
+  method (Teaching), EXPERIMENTAL methods in education, THEORY, , COGNITIVE
+  learning, CROSS-cultural differences}
+  \strng{namehash}{BCBDJP1}
+  \strng{fullhash}{BCBDJP1}
+  \field{labelyear}{2012}
+  \field{sortinit}{B}
+  \field{abstract}{%
+  Much is known about the importance of learning and some of the distinct
+  learning processes that organizations use (e.g., trial-and-error learning,
+  vicarious learning, experimental learning, and improvisational learning). Yet
+  surprisingly little is known about whether these processes combine over time
+  in ordered ways, because most research on learning explores one particular
+  process. Using theory elaboration and theory-building methods and data on the
+  accumulated country entries of entrepreneurial firms, we address this gap.
+  Our core contribution is an emergent theoretical framework that develops the
+  concept of learning sequences. We find that learning sequences exist and are
+  influenced by initial conditions. We also find that learning sequences evolve
+  in fundamentally distinct ways over time and with repeated use. Finally, data
+  show how different learning sequences differentially affect both shorter- and
+  longer-term performance, suggesting that it matters which learning processes
+  are%
+  }
+  \field{number}{3}
+  \field{pages}{611\bibrangedash 641}
+  \field{title}{Learning Sequences: Their Existence, Effect, and Evolution}
+  \field{volume}{55}
+  \field{journaltitle}{Academy of Management Journal}
+  \field{year}{2012}
+\endentry
+
+\entry{BorgattiCross2003_A-Relational-View-of-Information-Seeking_MS}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Borgatti}{B.}%
+     {Stephen~P.}{S.~P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Cross}{C.}%
+     {Rob}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{relational view; netzwerktheorie; communication; organizational
+  learning; knowledge}
+  \strng{namehash}{BSPCR1}
+  \strng{fullhash}{BSPCR1}
+  \field{labelyear}{2003}
+  \field{sortinit}{B}
+  \field{abstract}{%
+  Research in organizational learning has demonstrated processes and
+  occasionally performance implications of acquisition of declarative
+  (know-what) and procedural (know-how) knowledge. However, considerably less
+  attention has been paid to learned characteristics of relationships that
+  affect the decision to seek information from other people. Based on a review
+  of the social network, information processing, and organizational learning
+  literatures, along with the results of a previous qualitative study, we
+  propose a formal model of information seeking in which the probability of
+  seeking information from another person is a function of (1) knowing what
+  that person knows; (2) valuing what that person knows; (3) being able to gain
+  timely access to that person's thinking; and (4) perceiving that seeking
+  information from that person would not be too costly. We also hypothesize
+  that the knowing, access, and cost variables mediate the relationship between
+  physical proximity and information seeking. The model is tested using two
+  separate research sites to provide replication. The results indicate strong
+  support for the model and the mediation hypothesis (with the exception of the
+  cost variable). Implications are drawn for the study of both transactive
+  memory and organizational learning, as well as for management practice.%
+  }
+  \field{number}{4}
+  \field{pages}{432\bibrangedash 445}
+  \field{title}{A Relational View of Information Seeking and Learning in Social
+  Networks}
+  \field{volume}{49}
+  \field{journaltitle}{Management Science}
+  \field{year}{2003}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{CsaszarSiggelkow2010_How-Much-to-Copy-Determinants-of-Effective-Imitation_OS}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Csaszar}{C.}%
+     {Felipe~A}{F.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Siggelkow}{S.}%
+     {Nicolaj}{N.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{bm replication, strategy}
+  \strng{namehash}{CFASN1}
+  \strng{fullhash}{CFASN1}
+  \field{labelyear}{2010}
+  \field{sortinit}{C}
+  \field{number}{3}
+  \field{pages}{661\bibrangedash 676}
+  \field{title}{How Much to Copy? Determinants of Effective Imitation Breadth}
+  \field{volume}{21}
+  \field{journaltitle}{Organization Science}
+  \field{year}{2010}
+\endentry
+
+\entry{DenrellMarch2001_Adaptation-as-Information-Restriction-The-Hot-Stove_OS}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Denrell}{D.}%
+     {Jerker}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {March}{M.}%
+     {James~G.}{J.~G.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{hot stove effect, adaptation, implementation, search, RISK assessment,
+  RISK aversion, ORGANIZATIONAL change, ORGANIZATIONAL learning, CORPORATE
+  culture, SYSTEMS theory, SOCIAL systems, LEARNING, RESISTANCE to change,
+  CHANGE (Psychology), ADAPTABILITY (Psychology), change, Exploration,
+  Innovation., Organizational Learning, Risk Taking, Selection}
+  \strng{namehash}{DJMJG1}
+  \strng{fullhash}{DJMJG1}
+  \field{labelyear}{2001}
+  \field{sortinit}{D}
+  \field{abstract}{%
+  Individuals and social systems are often portrayed as risk averse and
+  resistant to change. Such propensities are characteristically attributed to
+  individual, organizational, and cultural traits such as risk aversion,
+  uncertainty-avoidance, discounting, and an unwillingness to change. This
+  paper explores an alternative interpretation of such phenomena. We show how
+  the reproduction of successful actions inherent in adaptive processes, such
+  as learning and competitive selection and reproduction, results in a bias
+  against alternatives that initially may appear to be worse than they actually
+  are. In particular, learning and selection are biased against both risky and
+  novel alternatives. Because the biases are products of the tendency to
+  reproduce success that is inherent in the sequential sampling of adaptation,
+  they are reduced whenever the reproduction of success is attenuated. In
+  particular, when adaptation is slowed, made imprecise, or recalled less
+  reliably, the propensity to engage i%
+  }
+  \field{number}{5}
+  \field{pages}{523\bibrangedash 538}
+  \field{title}{Adaptation as Information Restriction: The Hot Stove Effect}
+  \field{volume}{12}
+  \field{journaltitle}{Organization Science}
+  \field{year}{2001}
+\endentry
+
+\entry{Greve1998_Performance-Aspirations-and-Risky-Organizational_ASQ}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Greve}{G.}%
+     {Henrich~R.}{H.~R.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{risk-aspirations-change,
+  hs14_cor_Keil_Carnegie-perspective-on-behavioral-strategy, ORGANIZATIONAL
+  change, ORGANIZATIONAL structure, PERSONNEL changes, ORGANIZATIONAL inertia,
+  JOB enrichment, RISK assessment}
+  \strng{namehash}{GHR1}
+  \strng{fullhash}{GHR1}
+  \field{labelyear}{1998}
+  \field{sortinit}{G}
+  \field{abstract}{%
+  The study reported here uses learning theory to examine how performance
+  feedback affects the probability of risky organizational changes that are
+  consequential to an organization's performance. The theory predicts how
+  decision makers interpret organizational performance by comparing it with
+  historical and social aspiration levels. Empirical analysis of the
+  consequences of performance shortfalls on the probability of strategic change
+  in the radio broadcasting industry shows clear sensitivity to social and
+  historical aspiration levels. It also shows that changes seen or done by the
+  station predict future change, suggesting that the recent experiences of
+  organization cause differences in capabilities and perceived opportunities,
+  leading to differences in organizational inertia. [ABSTRACT FROM AUTHOR]%
+  }
+  \field{number}{1}
+  \field{pages}{58\bibrangedash 86}
+  \field{title}{Performance, Aspirations and Risky Organizational Change}
+  \field{volume}{43}
+  \field{journaltitle}{Administrative Science Quarterly}
+  \field{year}{1998}
+\endentry
+
+\entry{Greve2003_Organizational-Learning-From-Performance-Feedback}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Greve}{G.}%
+     {Henrich~R.}{H.~R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press}%
+  }
+  \keyw{learning, performance feedback, satissficing-aspirations}
+  \strng{namehash}{GHR1}
+  \strng{fullhash}{GHR1}
+  \field{labelyear}{2003}
+  \field{sortinit}{G}
+  \field{booktitle}{Organizational Learning From Performance Feedback. A
+  Behavioral Perspective on Innovation and Change}
+  \field{title}{Organizational Learning From Performance Feedback. A Behavioral
+  Perspective on Innovation and Change}
+  \list{location}{1}{%
+    {Cambridge}%
+  }
+  \field{year}{2003}
+\endentry
+
+\entry{Gulati1999_Network-location-and-learning_SMJ}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Gulati}{G.}%
+     {Ranjay}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{complementary assets; strategic alliances; social networks;
+  embeddedness; cooperative capabilities; organizational learning; Business
+  Model Replication}
+  \strng{namehash}{GR1}
+  \strng{fullhash}{GR1}
+  \field{labelyear}{1999}
+  \field{sortinit}{G}
+  \field{abstract}{%
+  This paper presents a dynamic, firm-level study of the role of network
+  resources in determining alliance formation. Such resources inhere not so
+  much within the firm but reside in the interfirm networks in which firms are
+  placed. Data from extensive fieldwork show that by influencing the extent to
+  which firms have access to information about potential partners, such
+  resources are an important catalyst for new alliances, especially because
+  alliances entail considerable hazards. This study also assesses the
+  importance of firms capabilities with alliance formation and material
+  resources as determinants of their alliance decisions. I test this dynamic
+  framework and its hypotheses about the role of time-varying network resources
+  and firm capabilities with comprehensive longitudinal multi-industry data on
+  the formation of strategic alliances by a panel of firms between 1970 and
+  1989. The results confirm field observations that accumulated network
+  resources arising from firm participation in the network of accumulated prior
+  alliances are influential in firms decisions to enter into new alliances.
+  This study highlights the importance of network resources that firms derive
+  from their embeddedness in networks for explaining their strategic behavior.%
+  }
+  \field{number}{5}
+  \field{pages}{397\bibrangedash 420}
+  \field{title}{Network location and learning: the influence of network
+  resources and firm capabilities on alliance formation}
+  \field{volume}{20}
+  \field{journaltitle}{Strategic Management Journal}
+  \field{year}{1999}
+\endentry
+
+\entry{hannanfreeman1984}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Hannan}{H.}%
+     {Michael~T.}{M.~T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Freeman}{F.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HMTFJ1}
+  \strng{fullhash}{HMTFJ1}
+  \field{labelyear}{1984}
+  \field{sortinit}{H}
+  \field{abstract}{%
+  Theory and research on organization-environment relations from a population
+  ecology perspective have been based on the assumption that inertial pressures
+  on structure are strong. This paper attempts to clarify the meaning of
+  structural inertia and to derive propositions about structural inertia from
+  an explicit evolutionary model. The proposed theory treats high levels of
+  structural inertia as a consequence of a selection process rather than as a
+  precondition for selection. It also considers how the strength of inertial
+  forces varies with age, size, and complexity.%
+  }
+  \field{number}{2}
+  \field{pages}{149\bibrangedash 164}
+  \field{title}{Structural Inertia and Organizational Change}
+  \field{volume}{49}
+  \field{journaltitle}{American Sociological Review}
+  \field{year}{1984}
+\endentry
+
+\entry{Haunschild1993_Interorganizational-Imitation-The-Impact-of-Interlocks_ASQ}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Haunschild}{H.}%
+     {Pamela~R.}{P.~R.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{CONSOLIDATION & merger of corporations, BOARDS of directors, CORPORATE
+  reorganizations, INDUSTRIAL concentration, INTERORGANIZATIONAL networks,
+  INTERORGANIZATIONAL relations, IMITATION, INFLUENCE (Psychology), SOCIAL
+  influence, MOTIVATION (Psychology), PSYCHOLOGICAL aspects}
+  \strng{namehash}{HPR1}
+  \strng{fullhash}{HPR1}
+  \field{labelyear}{1993}
+  \field{sortinit}{H}
+  \field{abstract}{%
+  In this study, I examine direct evidence for the influence of
+  interorganizational imitation on a voluntary, substantive strategic action
+  that affects the economic core of the firm: corporate acquisitions. I argue
+  that firm managers are exposed to the acquisition activities of other firms
+  when they sit on those firms' boards. The acquisition activities of the firms
+  they are tied to serve as models to be imitated. Hypotheses are developed and
+  tested on 1981-1990 acquisition data for a sample of 327 firms. Results show
+  that firm managers are imitating the acquisition activities of those other
+  firms to which they are tied through directorships. Competing rival
+  interpretations of positive evidence for imitation are examined, and the
+  imitation interpretation is found to hold. [ABSTRACT FROM AUTHOR]%
+  }
+  \field{number}{4}
+  \field{pages}{564\bibrangedash 592}
+  \field{title}{Interorganizational Imitation: The Impact of Interlocks on
+  Corporate Acquisition Activity}
+  \field{volume}{38}
+  \field{journaltitle}{Administrative Science Quarterly}
+  \field{year}{1993}
+\endentry
+
+\entry{HaunschildMiner1997_Modes-of-Interorganizational-Imitation_ASQ}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Haunschild}{H.}%
+     {Pamela~R.}{P.~R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Miner}{M.}%
+     {Anne~S.}{A.~S.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{INTERORGANIZATIONAL relations, UNCERTAINTY (Information theory),
+  ORGANIZATIONAL learning, STATISTICAL hypothesis testing, INFORMATION
+  asymmetry, DECISION theory, IMITATION, CONTEXTUAL analysis, LEARNING
+  strategies, PREDICTION models}
+  \strng{namehash}{HPRMAS1}
+  \strng{fullhash}{HPRMAS1}
+  \field{labelyear}{1997}
+  \field{sortinit}{H}
+  \field{abstract}{%
+  Drawing on neoinstitutional and learning theories, we distinguish three
+  distinct modes of selective interorganizational imitation: frequency
+  imitation (copying very common practices), trait imitation (copying practices
+  of other organizations with certain features), and outcome imitation
+  (imitation based on a practice's apparent impact on others). We investigate
+  whether these imitation modes occur independently and are affected by outcome
+  salience and contextual uncertainty in the context of an important decision:
+  which investment banker to use as adviser on an acquisition. Results of
+  testing hypotheses on 539 acquisitions that occurred in 1988-1993 show that
+  all three imitation modes occur independently, but only highly salient
+  outcomes sustain outcome imitation. Uncertainty enhances frequency imitation,
+  but only some trait and outcome imitation. The results highlight the possible
+  joint operation of social and technical indicators in imitation, illuminate
+  factors that moderate vicario%
+  }
+  \field{number}{3}
+  \field{pages}{472 \bibrangedash  500}
+  \field{title}{Modes of Interorganizational Imitation: The Effects of Outcome
+  Salience and Uncertainty.}
+  \field{volume}{42}
+  \field{journaltitle}{Administrative Science Quarterly}
+  \field{year}{1997}
+\endentry
+
+\entry{HeimeriksDuysters2007_Alliance-Capability-as-a-Mediator-Between-Exp}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Heimeriks}{H.}%
+     {Koen~H.}{K.~H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Duysters}{D.}%
+     {Geert}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{learning, alliance}
+  \strng{namehash}{HKHDG1}
+  \strng{fullhash}{HKHDG1}
+  \field{labelyear}{2007}
+  \field{sortinit}{H}
+  \field{abstract}{%
+  abstract This study centres around the way in which firms can enhance
+  alliance performance through the development of alliance capabilities.
+  Whereas most research has focused on inter-firm antecedents of alliance
+  performance, research on intra-firm antecedents pointing to prior experience
+  and internal mechanisms to foster knowledge transfer has only recently
+  emerged. As little is known about how firms develop alliance capabilities,
+  this study aims to uncover how differences in sources of alliance
+  capabilities explain performance heterogeneity. The data are derived from a
+  detailed survey held among alliance managers and Vice-Presidents of 151
+  firms. The survey covers over 2600 alliances for the period 1997--2001. This
+  study not only finds that alliance capabilities partially mediate between
+  alliance experience and alliance performance, but also yields novel insights
+  into the micro-level building blocks underlying the process of alliance
+  capability development.%
+  }
+  \field{number}{1}
+  \field{pages}{25\bibrangedash 49}
+  \field{title}{Alliance Capability as a Mediator Between Experience and
+  Alliance Performance: An Empirical Investigation into the Alliance Capability
+  Development Process*}
+  \field{volume}{44}
+  \field{journaltitle}{Journal of Management Studies}
+  \field{year}{2007}
+\endentry
+
+\entry{inkpen1998}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Inkpen}{I.}%
+     {Andrew~C.}{A.~C.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{STRATEGIC alliances (Business), PARTNERSHIP, COMPETITION,
+  International, JOINT ventures, ORGANIZATIONAL learning, INTERNATIONAL trade,
+  ORGANIZATIONAL behavior, EQUITY, CORPORATE culture, KNOWLEDGE management,
+  ans}
+  \strng{namehash}{IAC1}
+  \strng{fullhash}{IAC1}
+  \field{labelyear}{1998}
+  \field{sortinit}{I}
+  \field{abstract}{%
+  Global competition is forcing firms to rethink the question of how new
+  organizational knowledge is acquired. New knowledge provides the foundation
+  for new skills, which in turn can lead to competitive success. However, few
+  firms systematically manage the process of knowledge acquisition. This paper
+  explores international strategic alliances and their potential for learning
+  and knowledge acquisition. In bringing together firms with different skills,
+  knowledge bases, and organizational cultures, alliances create unique
+  learning opportunities for the partner firms. Based on the assumption that
+  organizational learning is both a function of access to new knowledge and the
+  capabilities for using and building on such knowledge, the paper focuses on
+  alliance knowledge accessibility and firm learning effectiveness.%
+  }
+  \field{number}{4}
+  \field{pages}{69\bibrangedash 80}
+  \field{title}{Learning and knowledge acquisition through international
+  strategic alliances}
+  \field{volume}{12}
+  \field{journaltitle}{Academy of Management Executive}
+  \field{year}{1998}
+\endentry
+
+\entry{ketchen-jr.palmer1999_strategic-responses-to-poor}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Ketchen~Jr.}{K.~J.}%
+     {David~J.}{D.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Palmer}{P.}%
+     {Timothy~B.}{T.~B.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{ORGANIZATIONAL research, STRATEGIC planning, ORGANIZATIONAL behavior,
+  COMMUNICATION in organizations, ORGANIZATIONAL sociology, INTERORGANIZATIONAL
+  relations, INTERGROUP relations, MANAGEMENT, INDUSTRIAL psychology}
+  \strng{namehash}{KJDJPTB1}
+  \strng{fullhash}{KJDJPTB1}
+  \field{labelyear}{1999}
+  \field{sortinit}{K}
+  \field{abstract}{%
+  Two widely cited, yet disparate, theoretical views of the relationship
+  between poor performance and subsequent organizational action appear in
+  organizational research. The behavioral theory of the firm posits that poor
+  performing organizations will make strategic changes in, for example, the
+  products and services they offer. In contrast, the threat-rigidity
+  perspective predicts rather conservative responses; poor performers are
+  expected to rely on previous actions to reverse their poor outcomes. We
+  examined these competing predictions using data from a regional sample of
+  hospitals. The results offer support for the behavioral theory of the firm
+  and no support for threat-rigidity. We derive several implications from these
+  findings in an effort to guide future research. [ABSTRACT FROM AUTHOR]%
+  }
+  \field{number}{5}
+  \field{pages}{683\bibrangedash 706}
+  \field{title}{Strategic Responses to Poor Organizational Performance: A Test
+  of Competing Perspectives}
+  \field{volume}{25}
+  \field{journaltitle}{Journal of Management}
+  \field{year}{1999}
+\endentry
+
+\entry{LaneLubatkin1998_Relative-absorptive-capacity-and-interorganiztional-learning_SMJ}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Lane}{L.}%
+     {Peter~J.}{P.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lubatkin}{L.}%
+     {Michael}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{absorptive capacity, organizational learning, knowledge, alliances,
+  R&D}
+  \strng{namehash}{LPJLM1}
+  \strng{fullhash}{LPJLM1}
+  \field{labelyear}{1998}
+  \field{sortinit}{L}
+  \field{abstract}{%
+  Much of the prior research on interorganizational learning has focused on the
+  role of absorptive capacity, a firm's ability to value, assimilate, and
+  utilize new external knowledge. However, this definition of the construct
+  suggests that a firm has an equal capacity to learn from all other
+  organizations. We reconceptualize the firm-level construct absorptive
+  capacity as a learning dyad-level construct, relative absorptive capacity.
+  One firm's ability to learn from another firm is argued to depend on the
+  similarity of both firms' (1) knowledge bases, (2) organizational structures
+  and compensation policies, and (3) dominant logics. We then test the model
+  using a sample of pharmaceutical--biotechnology R&D alliances. As predicted,
+  the similarity of the partners' basic knowledge, lower management
+  formalization, research centralization, compensation practices, and research
+  communities were positively related to interorganizational learning. The
+  relative absorptive capacity measures are also shown to have greater
+  explanatory power than the established measure of absorptive capacity, R&D
+  spending. {\copyright} 1998 John Wiley & Sons, Ltd.%
+  }
+  \field{number}{5}
+  \field{pages}{461\bibrangedash 477}
+  \field{title}{Relative absorptive capacity and interorganizational learning}
+  \field{volume}{19}
+  \field{journaltitle}{Strategic Management Journal}
+  \field{year}{1998}
+\endentry
+
+\entry{LaveMarch1975_An-Introduction-to-Models-i}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Lave}{L.}%
+     {Charles~A.}{C.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {March}{M.}%
+     {James~G.}{J.~G.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Harper \& Row}%
+  }
+  \keyw{behavioral theory of the firm, hs14_cor_ethiraj_strategy_research}
+  \strng{namehash}{LCAMJG1}
+  \strng{fullhash}{LCAMJG1}
+  \field{labelyear}{1975}
+  \field{sortinit}{L}
+  \field{title}{An Introduction to Models in the Social Sciences}
+  \list{location}{1}{%
+    {San Francisco}%
+  }
+  \field{year}{1975}
+\endentry
+
+\entry{march1988_variable-risk-preferences-a}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {March}{M.}%
+     {James~G.}{J.~G.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{Behavioral Theory of the Firm, risk, Aspirations}
+  \strng{namehash}{MJG1}
+  \strng{fullhash}{MJG1}
+  \field{labelyear}{1988}
+  \field{sortinit}{M}
+  \field{abstract}{%
+  Observations of human decision making indicate that risk preferences depend
+  on the values of possible outcomes relative to levels of aspiration. A model
+  of such variable risk preference is specified. It suggests that some risk
+  averse behavior may result from a human tendency to focus on targets and from
+  the adaptation of those targets to experience rather than from a fixed trait
+  of risk aversion. In addition, the model shows how risk preferences varying
+  around adaptive aspirations produce both a greater long-run likelihood of
+  survival and a higher average return for survivors than do fixed risk
+  preferences.%
+  }
+  \field{number}{1}
+  \field{pages}{5\bibrangedash 24}
+  \field{title}{Variable risk preferences and adaptive aspirations}
+  \field{volume}{9}
+  \field{journaltitle}{Journal of Economic Behavior \& Organization}
+  \field{year}{1988}
+\endentry
+
+\entry{March1991_Exploration-and-Exploitation_OS}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {March}{M.}%
+     {James~G.}{J.~G.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{mt_simulation_multi-armed-bandit, k_learn, ORGANIZATIONAL learning,
+  KNOWLEDGE management, MANAGEMENT, COMPETITIVE advantage, ORGANIZATIONAL
+  behavior, CORPORATE culture, POSSIBILITY, CERTAINTY, EXPLOITATION of humans,
+  COMPETITION, KNOWLEDGE AND COMPETITIVE ADVANTAGE, ORGANIZATIONAL LEARNING:
+  RISK TAKING; Behavioral Theory of the Firm;
+  00_Papers_comparison_of_concept_FME}
+  \strng{namehash}{MJG1}
+  \strng{fullhash}{MJG1}
+  \field{labelyear}{1991}
+  \field{sortinit}{M}
+  \field{abstract}{%
+  This paper considers the relation between the exploration of new
+  possibilities and the exploitation of old certainties in organizational
+  learning. It examines some complications in allocating resources between the
+  two, particularly those introduced by the distribution of costs and benefits
+  across time and space, and the effects of ecological interaction. Two general
+  situations involving the development and use of knowledge in organizations
+  are modeled. The first is the case of mutual learning between members of an
+  organization and an organizational code. The second is the case of learning
+  and competitive advantage in competition for primacy. The paper develops an
+  argument that adaptive processes, by refining exploitation more rapidly than
+  exploration, are likely to become effective in the short run but
+  self-destructive in the long run. The possibility that certain common
+  organizational practices ameliorate that tendency is assessed.%
+  }
+  \field{number}{1}
+  \field{pages}{71\bibrangedash 87}
+  \field{title}{Exploration and Exploitation in Organizational Learning}
+  \field{volume}{2}
+  \field{journaltitle}{Organization Science}
+  \field{year}{1991}
+\endentry
+
+\entry{March1996_Learning-to-be-Risk-Averse_PsychologicalReview}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {March}{M.}%
+     {James~G.}{J.~G.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{Behavioral Theory of the Firm, RISK aversion, multi-armed bandit}
+  \strng{namehash}{MJG1}
+  \strng{fullhash}{MJG1}
+  \field{labelyear}{1996}
+  \field{sortinit}{M}
+  \field{number}{2}
+  \field{pages}{309\bibrangedash 319}
+  \field{title}{Learning to be Risk Averse}
+  \field{volume}{103}
+  \field{journaltitle}{Psychological Review}
+  \field{year}{1996}
+\endentry
+
+\entry{MarchSimon1958_Organizations}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {March}{M.}%
+     {James~G.}{J.~G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Simon}{S.}%
+     {Herbert~A.}{H.~A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Wiley}%
+  }
+  \keyw{hs14_cor_Keil_Carnegie-perspective-on-behavioral-strategy,
+  hs14_cor_Martinez_Managerial-Cognition, transaction cost, coordination costs}
+  \strng{namehash}{MJGSHA1}
+  \strng{fullhash}{MJGSHA1}
+  \field{labelyear}{1958}
+  \field{sortinit}{M}
+  \field{booktitle}{Organizations}
+  \field{title}{Organizations}
+  \list{location}{1}{%
+    {New York}%
+  }
+  \field{year}{1958}
+\endentry
+
+\entry{MarchSproull1991_Learning-From-Samples-of-One-or-Fewer_OS}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {March}{M.}%
+     {James~G.}{J.~G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sproull}{S.}%
+     {Lee~S.}{L.~S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Tamuz}{T.}%
+     {Michal}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{15hs_CompetitiveStrategy_Laamanen, learning, ORGANIZATIONAL learning,
+  ORGANIZATIONAL change, MANAGEMENT, ORGANIZATIONAL effectiveness,
+  ORGANIZATIONAL behavior, CORPORATE culture, ORGANIZATION, EXPERIENCE,
+  LEARNING, PERFORMANCE, LEARNING FROM EXPERIENCE, ORGANIZATIONAL LEARNING,
+  SMALL SAMPLES}
+  \strng{namehash}{MJGSLSTM1}
+  \strng{fullhash}{MJGSLSTM1}
+  \field{labelyear}{1991}
+  \field{sortinit}{M}
+  \field{abstract}{%
+  Organizations learn from experience. Sometimes, however, history is not
+  generous with experience. We explore how organizations convert infrequent
+  events into interpretations of history, and how they balance the need to
+  achieve agreement on interpretations with the need to interpret history
+  correctly. We ask what methods are used, what problems are involved, and what
+  improvements might be made. Although the methods we observe are not
+  guaranteed to lead to consistent agreement on interpretations, valid
+  knowledge, improved organizational performance, or organizational survival,
+  they provide possible insights into the possibilities for and problems of
+  learning from fragments of history. [ABSTRACT FROM AUTHOR]%
+  }
+  \field{number}{1}
+  \field{pages}{1\bibrangedash 13}
+  \field{title}{Learning From Samples of One or Fewer}
+  \field{volume}{2}
+  \field{journaltitle}{Organization Science}
+  \field{year}{1991}
+\endentry
+
+\entry{MinerHaunschild1995_Population-level-learning}{incollection}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Miner}{M.}%
+     {Anne~S.}{A.~S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Haunschild}{H.}%
+     {Pamela~R.}{P.~R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {JAI Press}%
+  }
+  \strng{namehash}{MASHPR1}
+  \strng{fullhash}{MASHPR1}
+  \field{labelyear}{1995}
+  \field{sortinit}{M}
+  \field{booktitle}{Research in Organizational Behavior}
+  \field{pages}{115\bibrangedash 166}
+  \field{title}{Population-level learning}
+  \list{location}{1}{%
+    {Stamford}%
+  }
+  \field{year}{1995}
+\endentry
+
+\entry{MuthusamyWhite2005_Learning-and-Knowledge-Transfer-in-Strategic_OS}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Muthusamy}{M.}%
+     {Senthil~K.}{S.~K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {White}{W.}%
+     {Margaret~A.}{M.~A.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{knowledge transfer, alliances}
+  \strng{namehash}{MSKWMA1}
+  \strng{fullhash}{MSKWMA1}
+  \field{labelyear}{2005}
+  \field{sortinit}{M}
+  \field{abstract}{%
+  Although social interactions and exchanges between partners are emphasized as
+  imperative for alliance success, comprehensive examination of how social
+  exchanges facilitate learning and knowledge transfer in strategic alliances
+  is lacking. Drawing on social exchange theory, we examined the effects of
+  social exchange processes between alliance partners on the extent of learning
+  and knowledge transfer in a strategic alliance. An empirical examination of
+  data collected from alliance managers of 144 strategic alliances revealed
+  that social exchanges such as reciprocal commitment, trust, and mutual
+  influence between partners are positively related to learning and knowledge
+  transfer in strategic alliances.%
+  }
+  \field{number}{3}
+  \field{pages}{415\bibrangedash 441}
+  \field{title}{Learning and Knowledge Transfer in Strategic Alliances: A
+  Social Exchange View}
+  \field{volume}{26}
+  \field{journaltitle}{Organization Studies}
+  \field{year}{2005}
+\endentry
+
+\entry{posenchen2013_an-advantage-of-newness:-vi}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Posen}{P.}%
+     {Hart~E.}{H.~E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Chen}{C.}%
+     {John~S.}{J.~S.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{hs14_cor_Posen_Contributing-to-Strategy-Literature, experiential
+  learning; vicarious learning; absorptive capacity; entry}
+  \strng{namehash}{PHECJS1}
+  \strng{fullhash}{PHECJS1}
+  \field{labelyear}{2013}
+  \field{sortinit}{P}
+  \field{pages}{1\bibrangedash 16}
+  \field{title}{An Advantage of Newness: Vicarious Learning Despite Limited
+  Absorptive Capacity}
+  \field{volume}{Articles in Advance}
+  \field{journaltitle}{Organization Science}
+  \field{year}{2013}
+\endentry
+
+\entry{ReedDeFillippi1990_Causal-Ambiguity-Barriers-to-Imitation_AMR}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Reed}{R.}%
+     {Richard}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {DeFillippi}{D.}%
+     {Robert~J.}{R.~J.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{COMPETITIVE advantage, BARRIERS to entry (Industrial organization),
+  COMPLEX organizations, REINVESTMENT, BUSINESS intelligence, MARKET entry,
+  INDUSTRIAL organization, MANAGEMENT, RESOURCE management, MARKETING strategy,
+  EXPERIENCE curve}
+  \strng{namehash}{RRDRJ1}
+  \strng{fullhash}{RRDRJ1}
+  \field{labelyear}{1990}
+  \field{sortinit}{R}
+  \field{abstract}{%
+  This article addresses the issues of competitive advantage and competitor
+  imitation. It is argued that tacitness, complexity, and specificity in a
+  firm's skills and resources can generate causal ambiguity in competency-based
+  advantage, and thus raise barriers to imitation. Reinvestment in causally
+  ambiguous competencies is necessary to protect the advantage. Without
+  reinvestment, attritional effects of continued competitive action will cause
+  decay in the barriers to imitation. From this theorizing, research
+  propositions are suggested, which, ultimately, will lead to an improved
+  understanding of competitive advantage sustainability.%
+  }
+  \field{number}{1}
+  \field{pages}{88\bibrangedash 102}
+  \field{title}{Causal Ambiguity, Barriers to Imitation, and Sustainable
+  Competitive Advantage}
+  \field{volume}{15}
+  \field{journaltitle}{Academy of Management Review}
+  \field{year}{1990}
+\endentry
+
+\entry{Rivkin2001_Reproducing-Knowledge-Replication-Without-Imitation_OS}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Rivkin}{R.}%
+     {Jan~W.}{J.~W.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{STRATEGIC planning, TRADE secrets, ORGANIZATION, BUSINESS enterprises,
+  KNOWLEDGE management, SIMULATION methods & models, BUSINESS models,
+  COMPETITIVE advantage, COMPLEX organizations, , COMPETITION, IMITATION,
+  Competitive Advantage), Complexity, Imitation, Interaction, Loose Coupling}
+  \strng{namehash}{RJW1}
+  \strng{fullhash}{RJW1}
+  \field{labelyear}{2001}
+  \field{sortinit}{R}
+  \field{abstract}{%
+  The complexity of a firm's strategy affects both the ease with which the firm
+  can replicate the strategy in a new setting and the ease with which rivals
+  can imitate it. Simple strategies are as readily imitated as replicated, and
+  highly intricate strategies resist imitation and replication equally. At
+  moderate levels of complexity, however, a wedge develops between the ease of
+  replication and the difficulty of imitation, so long as the replicator has
+  better information than the imitator about the original success. An
+  agent-based simulation model clarifies the structural reasons that this is
+  so. The model also shows how the wedge-maximizing level of complexity varies
+  with the replicator's informational edge over the imitator. The results help
+  to pinpoint situations in which strategies requiring replication are likely
+  to defy imitation and generate sustained competitive advantage. More
+  generally, the analysis sheds light on the value of superior but imperfect
+  information about good solu%
+  }
+  \field{number}{3}
+  \field{pages}{274\bibrangedash 293}
+  \field{title}{Reproducing Knowledge: Replication Without Imitation at
+  Moderate Complexity.}
+  \field{volume}{12}
+  \field{journaltitle}{Organization Science}
+  \field{year}{2001}
+\endentry
+
+\entry{RosenkopfAlmeida2003_Overcoming-Local-Search-Through-Alliances_MS}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Rosenkopf}{R.}%
+     {Lori}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Almeida}{A.}%
+     {Paul}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{hs14_cor_Martignoni_Simulation-Modeling, STRATEGIC alliances
+  (Business), ALLIANCES (International relations), INFORMATION retrieval,
+  KNOWLEDGE management, TECHNOLOGICAL innovations, INVENTORS, SEMICONDUCTOR
+  industry, INFORMATION resources, INFORMATION resources management, INTERNAL
+  migration, Alliances, Mobility, Pa tents}
+  \strng{namehash}{RLAP1}
+  \strng{fullhash}{RLAP1}
+  \field{labelyear}{2003}
+  \field{sortinit}{R}
+  \field{abstract}{%
+  Recent research suggests that, due to organizational and relational
+  constraints, firms are limited contextually both geographically and
+  technologically in their search for new knowledge. But distant contexts may
+  offer ideas and insights that can be extremely useful to innovation through
+  knowledge recombination. So how can firms reach beyond their existing
+  contexts in their search for new knowledge? In this paper, we suggest that
+  two mechanisms alliances and the mobility of inventors can serve as bridges
+  to distant contexts and, thus, enable firms to overcome the constraints of
+  contextually localized search. Through the analysis of patent citation
+  patterns in the semiconductor industry, we first demonstrate both the
+  geographic and technological localization of knowledge. We then explore if
+  the formation of alliances and mobility of active inventors facilitate
+  interfirm knowledge flows across contexts. We find that mobility is
+  associated with interfirm knowledge flows regardless of geog%
+  }
+  \field{number}{6}
+  \field{pages}{751\bibrangedash 766}
+  \field{title}{Overcoming Local Search Through Alliances and Mobility}
+  \field{volume}{49}
+  \field{journaltitle}{Management Science}
+  \field{year}{2003}
+\endentry
+
+\entry{Schwab2007_Incremental-Organizational-Learning-from-Multilevel-Info_OS}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Schwab}{S.}%
+     {Andreas}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{Superstitious learning, learning,}
+  \strng{namehash}{SA1}
+  \strng{fullhash}{SA1}
+  \field{labelyear}{2007}
+  \field{sortinit}{S}
+  \field{abstract}{%
+  The availability of both direct performance feedback at the organization
+  level and vicarious information at the industry level raises the question of
+  their relative impact, as well as potential multilevel interactions. Prior
+  research suggests that an organization's own experience after adopting an
+  innovative managerial practice tends to replace information collected by
+  observing other organizations that implement the practice. The findings in
+  this study show, however, that both organization-level performance feedback
+  and population-level comparisons to other organizations affected incremental
+  change of an innovative practice during its execution. The effects of these
+  two information sources are not independent. Instead, results support a
+  substitutional cross-level interaction. In addition, the study discovered
+  that, when learning from their own experience, organizations engage in
+  superstitious learning and do not let sufficient time pass before assessing
+  the effects of prior changes. This study identifies principles that will
+  promote a more integrated understanding of learning during the execution of
+  innovative practices and contributes to the development of more fine-grained
+  multilevel models of organizational learning.%
+  }
+  \field{number}{2}
+  \field{pages}{233\bibrangedash 251}
+  \field{title}{Incremental Organizational Learning from Multilevel Information
+  Sources: Evidence for Cross-Level Interactions}
+  \field{volume}{18}
+  \field{journaltitle}{Organization Science}
+  \field{year}{2007}
+\endentry
+
+\entry{selten1998_aspiration-adaptation-theor}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Selten}{S.}%
+     {Reinhard}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{bounded rationality}
+  \strng{namehash}{SR1}
+  \strng{fullhash}{SR1}
+  \field{labelyear}{1998}
+  \field{sortinit}{S}
+  \field{abstract}{%
+  Aspiration adaptation theory, not available in English up to now, is a
+  general model of nonoptimizing boundedly rational behavior. The theory is
+  presented in a more formal fashion than in the original paper. Moreover, the
+  presentation is complemented by remarks on decision resources as goal
+  variables and the way in which aspiration adaptation copes with uncertainty
+  by risk-related goal variables. Finally, possible modifications in the light
+  of experimental evidence are discussed.%
+  }
+  \field{number}{2--3}
+  \field{pages}{191\bibrangedash 214}
+  \field{title}{Aspiration Adaptation Theory}
+  \field{volume}{42}
+  \field{journaltitle}{Journal of Mathematical Psychology}
+  \field{year}{1998}
+\endentry
+
+\entry{Singh1986_Performance-Slack-and-Risk-Taking_AMJ}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Singh}{S.}%
+     {Jitendra~V.}{J.~V.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{slack, satissficing-aspirations, GROUP decision making, RESEARCH,
+  ORGANIZATIONAL behavior, RISK-taking (Psychology), JOB performance,
+  INDUSTRIAL psychology, DECISION making, ORGANIZATIONAL sociology,
+  ORGANIZATIONAL death, ORGANIZATIONAL change, INNOVATION adoption, PROSPECT
+  theory, PSYCHOLOGICAL aspects}
+  \strng{namehash}{SJV1}
+  \strng{fullhash}{SJV1}
+  \field{labelyear}{1986}
+  \field{sortinit}{S}
+  \field{abstract}{%
+  This research paper investigates the relationship between organizational
+  performance and risk taking in organizational decision making. A complex
+  model is proposed in which the direct relationship, which is triggered by
+  performance below acceptable levels, is negative, but the indirect
+  relationships, which are mediated by organizational slack and
+  decentralization, are positive. A test of the model for a cross-sectional
+  sample of firms shows general support for the model. The findings have
+  implications for theories that view change as arising from stable
+  organizational processes. [ABSTRACT FROM AUTHOR]%
+  }
+  \field{number}{3}
+  \field{pages}{562\bibrangedash 585}
+  \field{title}{Performance, Slack, and Risk Taking in Organizational Decision
+  Making}
+  \field{volume}{29}
+  \field{journaltitle}{Academy of Management Journal}
+  \field{year}{1986}
+\endentry
+
+\entry{SrinivasanHaunschild2007_Vicarious-Learning-in-New-Product-Introduction_MS}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Srinivasan}{S.}%
+     {Raji}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Haunschild}{H.}%
+     {Pamela}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Grewal}{G.}%
+     {Rajdeep}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{language}{1}{%
+    {English}%
+  }
+  \list{publisher}{1}{%
+    {INFORMS}%
+  }
+  \strng{namehash}{SRHPGR1}
+  \strng{fullhash}{SRHPGR1}
+  \field{labelyear}{2007}
+  \field{sortinit}{S}
+  \field{abstract}{%
+  Technological developments combine previously distinct technologies that
+  result in converging markets. In converging markets, firms from different
+  industries compete against each other, often for the first time. We propose
+  that firms introducing new products in converging markets will learn
+  vicariously from other firms in the market. Further, we propose that this
+  learning will vary across the dual-technology frontier (DTF), where the
+  high-technology frontier (HTF) and low-technology frontier (LTF) map onto
+  innovative activities driven by technological opportunity and user needs. We
+  propose that at the HTF, local search will dominate and firms will be
+  influenced by HTF product introductions of similarly sized, successful firms.
+  At the LTF, learning will occur across the DTF, vary by origin industry of
+  the firm, and be affected by complementarities in routines and capabilities
+  and market competition among firms. We test the proposed model of vicarious
+  learning using panel data on new product introductions of 67 firms in the
+  U.S. digital camera market in the 1990s. Findings generally support our
+  proposed model of vicarious learning in this market. They show heterogeneity
+  in vicarious learning across the technology frontier and firm
+  characteristics--including the origin industry of target firms. Our results
+  show that vicarious learning in new product introductions in converging
+  markets--which includes both mimetic and nonmimetic learning--is similar in
+  some ways, but different from more traditional markets. We conclude with a
+  discussion of the implications of our findings for theories of organizational
+  learning, new product development, and converging markets.%
+  }
+  \field{issn}{00251909}
+  \field{number}{1}
+  \field{pages}{pp. 16\bibrangedash 28}
+  \field{title}{Vicarious Learning in New Product Introductions in the Early
+  Years of a Converging Market}
+  \field{volume}{53}
+  \field{journaltitle}{Management Science}
+  \field{year}{2007}
+\endentry
+
+\entry{TerlaakGong2008_Vicarious-Learning-and-Inferential-Accuracy-i}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Terlaak}{T.}%
+     {Ann}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gong}{G.}%
+     {Yan}{Y.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{ORGANIZATIONAL learning, INNOVATION adoption, ORGANIZATIONAL sociology
+  research, INFORMATION-seeking behavior, INTERORGANIZATIONAL relations,
+  INFORMATION sharing, INFORMATION asymmetry, THEORY of the firm, INFERENCE,
+  PSYCHOLOGY of learning, SITUATED learning theory, INSTITUTIONAL theory
+  (Sociology), vicarious learning}
+  \strng{namehash}{TAGY1}
+  \strng{fullhash}{TAGY1}
+  \field{labelyear}{2008}
+  \field{sortinit}{T}
+  \field{abstract}{%
+  We develop a model of inferential vicarious learning that explicates how
+  firms can learn whether to adopt a practice whose value varies across
+  organizations. We first theorize how firms can infer this variation from
+  samples of adopters, nonadopters, abandoners, and nonabandoners.
+  Surprisingly, incomplete samples may allow more accurate inferences than
+  complete ones. We then propose how firms, equipped with an understanding of
+  the variation, can select referent organizations that differ from those
+  identified in previous research. [ABSTRACT FROM AUTHOR]%
+  }
+  \field{number}{4}
+  \field{pages}{846\bibrangedash 868}
+  \field{title}{Vicarious Learning and Inferential Accuracy in Adoption
+  Processes}
+  \field{volume}{33}
+  \field{journaltitle}{Academy of Management Review}
+  \field{year}{2008}
+\endentry
+
+\entry{VermeulenBarkema2001_Learning-through-Acquisitions_AMJ}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Vermeulen}{V.}%
+     {Freek}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Barkema}{B.}%
+     {Harry}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Academy of Management}%
+  }
+  \strng{namehash}{VFBH1}
+  \strng{fullhash}{VFBH1}
+  \field{labelyear}{2001}
+  \field{sortinit}{V}
+  \field{abstract}{%
+  Research on acquisitions has typically focused on acquisitions per se,
+  examining issues such as performance and implementation problems. This study
+  moves beyond that perspective and studies the influence on a firm's later
+  expansions. We argue that exploitation of a firm's knowledge base through
+  <<greenfields>> eventually makes a firm simple and inert. In contrast,
+  acquisitions may broaden a firm's knowledge base and decrease inertia,
+  enhancing the viability of its later ventures. Over time, firms strike a
+  balance between the use of greenfields and acquisitions. Various implications
+  of this theory-tested with survival analysis and <<logit>> models-were
+  strongly corroborated.%
+  }
+  \field{number}{3}
+  \field{pages}{457\bibrangedash 476}
+  \field{title}{Learning through Acquisitions}
+  \field{volume}{44}
+  \field{journaltitle}{The Academy of Management Journal}
+  \field{year}{2001}
+\endentry
+
+\entry{WisemanBromiley1996_Toward-a-Model-of-Risk-in-Declining-Organizations_OS}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Wiseman}{W.}%
+     {Robert~M.}{R.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bromiley}{B.}%
+     {Philip}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{risk-aspirations-change, ORGANIZATIONAL death, TECHNOLOGY, RISK
+  management in business, ORGANIZATIONAL change, INDUSTRIAL management,
+  MANAGEMENT science, SUCCESS in business, ORGANIZATIONAL behavior, BUSINESS
+  failures, DOWNSIZING of organizations, INNOVATION adoption, PERFORMANCE,
+  Organizational Decline, Performance, Risk Taking, Slack}
+  \strng{namehash}{WRMBP1}
+  \strng{fullhash}{WRMBP1}
+  \field{labelyear}{1996}
+  \field{sortinit}{W}
+  \field{abstract}{%
+  Scholars who study organizational decline have argued that declining
+  organizations reduce or eliminate their riskier activities such as
+  innovation. Further, they cite reduced risk-taking as a primary contributor
+  to further decline. Scholars with an interest in risk per se come to the
+  opposite conclusion: low performing firms often take more risks than other
+  firms and such risks reduce subsequent performance. This study attempts to
+  resolve these conflicting views by examining the risk of firms in decline.
+  Our model, based on Cyert & March's (1963) behavioral theory of the firm,
+  includes six basic variables: (1) performance, (2) slack, (3) aspirations,
+  (4) expectations, (5) risk (income stream uncertainty), and (6) organization
+  size as a measure of decline. The estimated model includes prior levels of
+  risk and performance in the risk and performance equations respectively as
+  controls. This study uses data on 344 low-performing firms in 19
+  manufacturing industries to estimate a time-seri%
+  }
+  \field{number}{5}
+  \field{pages}{524\bibrangedash 543}
+  \field{title}{Toward a Model of Risk in Declining Organizations: An Empirical
+  Examination of Risk, Performance and Decline}
+  \field{volume}{7}
+  \field{journaltitle}{Organization Science}
+  \field{year}{1996}
+\endentry
+
+\entry{ZanderKogut1995_Knowledge-and-the-Speed-of-the-Transfer_OS}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Zander}{Z.}%
+     {Udo}{U.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kogut}{K.}%
+     {Bruce}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{knowledge transfer, INNOVATIONS in business, MANUFACTURING processes,
+  NEW product development, CAPITALISM, INNOVATION adoption, PRODUCT management,
+  INDUSTRIAL capacity, EMPIRICAL research, IMITATION, COMPETITION}
+  \strng{namehash}{ZUKB1}
+  \strng{fullhash}{ZUKB1}
+  \field{labelyear}{1995}
+  \field{sortinit}{Z}
+  \field{abstract}{%
+  The capabilities of a firm, or any organization, lie primarily in the
+  organizing principles by which individual and functional expertise is
+  structured, coordinated, and communicated. Firms are social communities which
+  use their relational structure and shared coding schemes to enhance the
+  transfer and communication of new skills and capabilities. To replicate new
+  knowledge in the absence of a social community is difficult. A classic
+  demonstration is the well-studied problem of the transfer across country
+  borders of manufacturing capabilities that support production of new product
+  innovations. We show in this article that the degree of codification and how
+  easily capabilities are taught has a significant influence on the speed of
+  transfer. What makes the question of knowledge codification particularly
+  interesting is that firms compete not only through the creation, replication,
+  and transfer of their own knowledge, but also through their ability to
+  imitate the product innovations of com%
+  }
+  \field{number}{1}
+  \field{pages}{76\bibrangedash 92}
+  \field{title}{Knowledge and the Speed of the Transfer and Imitation of
+  Organizational Capabilities: An Empirical Test}
+  \field{volume}{6}
+  \field{journaltitle}{Organization Science}
+  \field{year}{1995}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput
